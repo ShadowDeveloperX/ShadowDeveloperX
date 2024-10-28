@@ -16,13 +16,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 Soy estudiante de informática.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 Experimentado en Github, Java y Python.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 Ayudando en algunos proyectos...
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 Habláme si quieres saber de Sql, Java, C#, JavaScript
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
