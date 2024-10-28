@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="logo.jpg">
 </p>
 
 <h1> Bienvenido a mi portafolio! <img src = "logo.jpg" width = 30px> </h1>
