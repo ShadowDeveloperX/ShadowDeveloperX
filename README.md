@@ -22,7 +22,7 @@
   
 - 👯 Ayudando en algunos proyectos...
   
-- 💬 Habláme si quieres saber de Sql, Java, C#, JavaScript
+- 💬 Habláme si quieres saber de SQL, Java, C#, JavaScript
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
