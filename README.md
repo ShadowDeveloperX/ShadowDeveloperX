@@ -2,7 +2,7 @@
     <img width="200" src="logo.jpg">
 </p>
 
-<h1> Bienvenido a mi portafolio! <img src = "logo.jpg" width = 30px> </h1>
+<h1> Bienvenido a mi portafolio! <img src = "[logo.jpg](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width = 30px> </h1>
 <p align='center'>
 </p>
 
